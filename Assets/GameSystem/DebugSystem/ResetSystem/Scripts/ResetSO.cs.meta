@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59ad7049003dd644f8eb71ba0e365e7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mapManagerSO: {instanceID: 0}
+  - dayTimeSO: {instanceID: 0}
+  - exploreTimeSO: {instanceID: 0}
+  - importantItemSO: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

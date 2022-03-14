@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Opening
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 38265e83d66f0b14e8e92b8ec541df1c, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 527d05536a1ceb64b8002affa1764137, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 4900000, guid: 25e4176c0f958f74fbeb30fa36f63aac, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 8300000, guid: 5919642590343584db1ba4f45b866719, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 8300000, guid: 4f879c5c60de4a341afe1c167417e5c2, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: d28666f40bb7fea49bfb94dbcc98c29a, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 73167d2a44fcf724bb764813c4841f64, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 974cce5fc04679143b08f94067d27f1b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 1ac6c1570f425cc469a142ff8c50c86c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: 56723c9308ca03c4ba22f39e36a70066, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 8300000, guid: 252f7e04e215a8d43806257a1a2d0097, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 8300000, guid: a9741cee6e24a3449b06687ccc6ffc9e, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 8300000, guid: c10550dfc5b717c4b9f291bb20b1ec09, type: 3}
+    instantiationMode: 1
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0

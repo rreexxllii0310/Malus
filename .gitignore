@@ -1,0 +1,11 @@
+# Allow
+.vs/
+.vsconfig
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+UserSettings/
+*.csproj
+Malus_v9.sln
